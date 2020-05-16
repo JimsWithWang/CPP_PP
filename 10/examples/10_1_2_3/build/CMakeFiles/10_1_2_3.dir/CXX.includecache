@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stock.h
+string
+-
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_1_2_3/src/main.cpp
+iostream
+-
+stock.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_1_2_3/src/stock.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_1_2_3/src/stock.cpp
+iostream
+-
+stock.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_1_2_3/src/stock.h
+
