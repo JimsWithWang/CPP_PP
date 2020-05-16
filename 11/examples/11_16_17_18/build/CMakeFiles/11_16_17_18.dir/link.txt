@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/11_16_17_18.dir/src/main.cpp.o CMakeFiles/11_16_17_18.dir/src/stonewt.cpp.o  -o 11_16_17_18 
