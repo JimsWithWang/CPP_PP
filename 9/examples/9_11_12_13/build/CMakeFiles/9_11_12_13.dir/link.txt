@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/9_11_12_13.dir/src/main.cpp.o CMakeFiles/9_11_12_13.dir/src/namesp.cpp.o  -o 9_11_12_13 

@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/10_1_2_3.dir/src/main.cpp.o CMakeFiles/10_1_2_3.dir/src/stock.cpp.o  -o 10_1_2_3 
