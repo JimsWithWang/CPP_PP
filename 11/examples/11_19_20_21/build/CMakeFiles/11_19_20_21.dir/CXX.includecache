@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stonewt.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_19_20_21/src/main.cpp
+iostream
+-
+stonewt.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_19_20_21/src/stonewt.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_19_20_21/src/stonewt.cpp
+iostream
+-
+stonewt.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_19_20_21/src/stonewt.h
+
