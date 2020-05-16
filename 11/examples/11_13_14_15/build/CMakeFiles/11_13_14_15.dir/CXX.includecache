@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/vect.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_13_14_15/src/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+vect.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_13_14_15/src/vect.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_13_14_15/src/vect.cpp
+cmath
+-
+vect.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/11/examples/11_13_14_15/src/vect.h
+

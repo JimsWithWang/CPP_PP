@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stack.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_10_11_12/src/main.cpp
+iostream
+-
+cctype
+-
+stack.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_10_11_12/src/stack.h
+
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_10_11_12/src/stack.cpp
+stack.h
+/mnt/c/Users/60447/Documents/C++PrimerPlus/10/examples/10_10_11_12/src/stack.h
+

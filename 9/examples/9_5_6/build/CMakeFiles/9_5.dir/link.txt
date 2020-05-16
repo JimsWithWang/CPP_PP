@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/9_5.dir/src/main.cpp.o CMakeFiles/9_5.dir/src/support.cpp.o  -o 9_5 

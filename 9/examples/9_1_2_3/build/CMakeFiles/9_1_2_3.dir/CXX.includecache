@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/coordin.h
+
+/mnt/e/C++PrimerPlus/9/examples/9_1_2_3/src/coordin.cpp
+iostream
+-
+cmath
+-
+coordin.h
+/mnt/e/C++PrimerPlus/9/examples/9_1_2_3/src/coordin.h
+
+/mnt/e/C++PrimerPlus/9/examples/9_1_2_3/src/main.cpp
+iostream
+-
+coordin.h
+/mnt/e/C++PrimerPlus/9/examples/9_1_2_3/src/coordin.h
+

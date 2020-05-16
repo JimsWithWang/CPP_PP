@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/carrot.dir/carrot.cpp.o  -o carrot 
