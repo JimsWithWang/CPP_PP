@@ -1,3 +1,0 @@
-/mnt/e/C++PrimerPlus/7/examples/7_19/build/CMakeFiles/rebuild_cache.dir
-/mnt/e/C++PrimerPlus/7/examples/7_19/build/CMakeFiles/edit_cache.dir
-/mnt/e/C++PrimerPlus/7/examples/7_19/build/CMakeFiles/7_19.dir

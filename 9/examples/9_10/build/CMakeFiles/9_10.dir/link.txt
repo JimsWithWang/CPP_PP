@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/9_10.dir/src/main.cpp.o  -o 9_10 

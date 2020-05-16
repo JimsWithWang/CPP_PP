@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/9_7_8.dir/src/main.cpp.o CMakeFiles/9_7_8.dir/src/twofile.cpp.o  -o 9_7_8 

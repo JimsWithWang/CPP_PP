@@ -1,3 +1,0 @@
-/mnt/c/Users/60447/Documents/C++PrimerPlus/4/examples/4_20/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/60447/Documents/C++PrimerPlus/4/examples/4_20/build/CMakeFiles/4_20.dir
-/mnt/c/Users/60447/Documents/C++PrimerPlus/4/examples/4_20/build/CMakeFiles/edit_cache.dir
