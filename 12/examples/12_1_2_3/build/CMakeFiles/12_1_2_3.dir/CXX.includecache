@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stringbad.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_1_2_3/src/main.cpp
+stringbad.h
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_1_2_3/src/stringbad.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_1_2_3/src/stringbad.cpp
+stringbad.h
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_1_2_3/src/stringbad.h
+cstring
+-
+
