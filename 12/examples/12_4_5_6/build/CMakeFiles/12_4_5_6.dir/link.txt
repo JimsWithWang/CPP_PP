@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/12_4_5_6.dir/src/main.cpp.o CMakeFiles/12_4_5_6.dir/src/string1.cpp.o  -o 12_4_5_6 
