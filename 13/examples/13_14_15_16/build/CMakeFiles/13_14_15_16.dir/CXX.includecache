@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/dma.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_14_15_16/src/dma.cpp
+dma.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_14_15_16/src/dma.h
+iostream
+-
+cstring
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_14_15_16/src/main.cpp
+dma.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_14_15_16/src/dma.h
+iostream
+-
+
