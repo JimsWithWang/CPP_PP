@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/queue.h
+
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_10_11_12/src/main.cpp
+queue.h
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_10_11_12/src/queue.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_10_11_12/src/queue.cpp
+queue.h
+/mnt/c/Users/60447/Documents/CPP_PP/12/examples/12_10_11_12/src/queue.h
+cstdlib
+-
+
