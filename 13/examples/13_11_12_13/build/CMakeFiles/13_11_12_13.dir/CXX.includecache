@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/acctabc.h
+iostream
+-
+string
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_11_12_13/src/acctabc.cpp
+acctabc.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_11_12_13/src/acctabc.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_11_12_13/src/main.cpp
+acctabc.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_11_12_13/src/acctabc.h
+iostream
+-
+string
+-
+
