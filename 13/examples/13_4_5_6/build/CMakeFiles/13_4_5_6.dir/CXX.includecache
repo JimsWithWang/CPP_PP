@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tabtennis.h
+string
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_4_5_6/src/main.cpp
+tabtennis.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_4_5_6/src/tabtennis.h
+iostream
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_4_5_6/src/tabtennis.cpp
+tabtennis.h
+/mnt/c/Users/60447/Documents/CPP_PP/13/examples/13_4_5_6/src/tabtennis.h
+iostream
+-
+
