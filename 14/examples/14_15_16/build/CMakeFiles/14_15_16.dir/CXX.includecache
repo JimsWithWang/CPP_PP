@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stacktp.h
+
+/mnt/c/Users/60447/Documents/CPP_PP/14/examples/14_15_16/src/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+stacktp.h
+/mnt/c/Users/60447/Documents/CPP_PP/14/examples/14_15_16/src/stacktp.h
+
