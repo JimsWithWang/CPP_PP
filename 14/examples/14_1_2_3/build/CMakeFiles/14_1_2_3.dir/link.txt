@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/14_1_2_3.dir/src/main.cpp.o CMakeFiles/14_1_2_3.dir/src/student.cpp.o  -o 14_1_2_3 
