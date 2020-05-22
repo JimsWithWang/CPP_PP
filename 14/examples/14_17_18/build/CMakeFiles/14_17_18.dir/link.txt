@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/14_17_18.dir/src/main.cpp.o  -o 14_17_18 

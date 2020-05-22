@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/arraytp.h
+iostream
+-
+cstdlib
+-
+
+/mnt/c/Users/60447/Documents/CPP_PP/14/examples/14_17_18/src/main.cpp
+iostream
+-
+arraytp.h
+/mnt/c/Users/60447/Documents/CPP_PP/14/examples/14_17_18/src/arraytp.h
+
